@@ -18,10 +18,6 @@ int main()
         cout<<"el numero es_"<<x<<endl;
     }
 }
-if(x>5)
-{
-    
-}
 return 0;
 }
 
