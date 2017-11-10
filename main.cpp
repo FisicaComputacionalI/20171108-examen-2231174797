@@ -17,7 +17,6 @@ int main()
     {
         cout<<"el numero es_"<<x<<endl;
     }
-}
 return 0;
 }
 
