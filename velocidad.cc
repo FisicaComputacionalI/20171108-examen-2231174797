@@ -2,9 +2,13 @@
 using namespace std;
 int main()
 {
-  int distancia;
-  int velocidad;
-  int tiempo;
+  //al declarar tus variables como enteros la división es cero cuando es real. Tu programa correría bien sí declaras tus variables como float. 
+  //int distancia;
+  //int velocidad;
+  //int tiempo;
+  float distancia;                
+  float velocidad;
+  float tiempo; 
   cout<<"Introduzca un valor para la distancia en metros_"<<endl;
   cin>>distancia;
   cout<<"Introduzca el tiempo en segundos_"<<endl;
